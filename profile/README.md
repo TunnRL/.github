@@ -11,4 +11,10 @@ Main contributors so far are Dr. Georg H. Erharter and Mr. Tom Frode Hansen.
 
 DOI: [https://doi.org/10.1016/j.autcon.2021.103701](https://doi.org/10.1016/j.autcon.2021.103701)
 
+**Erharter, Georg H.; Hansen, Tom F (2022): Towards optimized TBM cutter changing policies with reinforcement learning. In Geomechanics and Tunnelling 15(5):665-70**
 
+DOI: [https://doi.org/10.1002/geot.202200032](https://doi.org/10.1002/geot.202200032)
+
+**Erharter, Georg H.; Hansen, Tom F; Marcher, Thomas (2024): Towards reinforcement learning - driven TBM cutter changing policies. In Automation in Construction xxx**
+
+DOI: [xxx]()
